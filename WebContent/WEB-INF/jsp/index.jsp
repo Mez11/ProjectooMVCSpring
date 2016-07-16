@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Spring MVC Crunchify.com</title>
-<style type="text/css"></style>
+<style type="text/css">
 body{
 	background -image: url('htpp://crunchify.com/bg.png');
 }
