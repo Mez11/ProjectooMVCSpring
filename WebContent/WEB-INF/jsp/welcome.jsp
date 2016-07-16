@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+Mensaje capturado desde <code><i>HelloWorld.java</i></code>:<br/>
+${message}
 </body>
 </html>
